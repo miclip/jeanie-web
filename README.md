@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/miclip/jeanie-web.svg?branch=master)](https://travis-ci.org/miclip/jeanie-web)
-
+[![Code Climate](https://codeclimate.com/github/miclip/jeanie-web/badges/gpa.svg)](https://codeclimate.com/github/miclip/jeanie-web)
 # Web
 
 This README outlines the details of collaborating on this Ember application.
