@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/miclip/jeanie-web.svg?branch=master)](https://travis-ci.org/miclip/jeanie-web)
+
 # Web
 
 This README outlines the details of collaborating on this Ember application.
