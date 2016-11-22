@@ -1,0 +1,7 @@
+---
+  applications:
+  - name: jeanie-web
+    memory: 128M
+    instances: 1
+    buildpack: nodejs_buildpack
+    host: jeanie-web
